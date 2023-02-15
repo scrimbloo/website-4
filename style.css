@@ -1,0 +1,39 @@
+body{
+   
+  background:  url("https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bob-Marley.jpg/440px-Bob-Marley.jpg") no-repeat fixed center; 
+  background-size: cover;
+   background-color: rgba(255, 255, 255, 0.7);
+ background-blend-mode: lighten;
+  position: center;
+
+}
+h2{margin: 0 auto;
+text-align: center;
+width: 50%;
+height: px;
+vertical-align: bottom;...}
+
+h3{margin: 0 auto;
+text-align: center;
+width: 50%;
+height: px;
+vertical-align: bottom;...}
+p{margin: 0 auto;
+text-align: center;
+width: 50%;
+height: px;
+vertical-align: bottom;...}
+h2{background-color: lightgreen;
+color:red;}
+
+p{background-color: lightblue;
+color: green;}
+
+h3{background-color: red; color: lightblue;}
+
+form{margin: 0 auto;
+text-align: center;
+width: 50%;
+height: px;
+vertical-align: bottom;...}
+form{background-color:lightgreen;}
